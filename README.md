@@ -1,7 +1,7 @@
 # Sentiment_SNP
 
-## Developed a web crawler using BeautifulSoup library collect the stock market news from Yahoo Finance and produced a summary report using advanced NLP models such as n-grams, DistilBERT model, and LongT5 model. The report provides analytical insights into the sentiments of the news headlines and critical topics of the financial news to assist in making trading decisions. Further development is in progress to identify the relationship of the sentiments with the stock prices.
-
+### Developed a web crawler using BeautifulSoup library collect the stock market news from Yahoo Finance and produced a summary report using advanced NLP models such as n-grams, DistilBERT model, and LongT5 model. The report provides analytical insights into the sentiments of the news headlines and critical topics of the financial news to assist in making trading decisions. Further development is in progress to identify the relationship of the sentiments with the stock prices.
+#
 ![2](https://github.com/woonsupkim/Sentiment_SNP/blob/main/Report/Report-02.png)
 ![3](https://github.com/woonsupkim/Sentiment_SNP/blob/main/Report/Report-03.png)
 ![4](https://github.com/woonsupkim/Sentiment_SNP/blob/main/Report/Report-04.png)
